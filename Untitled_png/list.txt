@@ -1,0 +1,14 @@
+-- PSD file: c:\Users\gsaber\_ND_Repo\CarND-Traffic-Sign-Classifier-Project\Untitled.psd
+assetlist = {
+	"0" = { pos={ 928, 104}, size={  32,  32} },
+	"1" = { pos={ 492,   0}, size={  32,  32} },
+	"2" = { pos={1055, 173}, size={  32,  32} },
+	"3" = { pos={ 618,  26}, size={  32,  32} },
+	"4" = { pos={ 889,  48}, size={  32,  32} },
+	"5" = { pos={ 223, 286}, size={  32,  32} },
+	"8" = { pos={ 953, 148}, size={  32,  32} },
+	"14" = { pos={1044, 228}, size={  33,  32} },
+	"17" = { pos={ 894, 102}, size={  32,  32} },
+	"34" = { pos={  27, 150}, size={  32,  32} },
+	"35" = { pos={  24, 107}, size={  33,  32} },
+}
